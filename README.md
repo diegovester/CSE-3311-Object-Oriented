@@ -17,8 +17,7 @@ When a professor says something will be on the exam, or otherwise gives off a "v
 
 Example:
 
-10:05 AM
-
+10:05 AM  
 Copyleft *** 
 
 If the lecture was recorded, I now have a time stamp to easily go back and listen to. The asterisks provide characters that are easy to find again with Ctrl-F.
