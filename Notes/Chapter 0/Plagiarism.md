@@ -1,5 +1,4 @@
-Key: 
-*** Emphasized by professor
+Date: 09-19-23
 
 (Quiz 1 taken before lecture)
 # Avoiding Plagiarism

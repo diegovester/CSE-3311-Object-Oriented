@@ -5,7 +5,7 @@ Study of an agile unified methodology and its application to object-oriented sof
 Content and notes are of a course from the University of Texas at Arlington. My notes are made public for my own convenience as well as current and prospective students.
 
 # Collab
-There's no pressure at all for you to help, but if you feel the same way I do, dong stuff together is just more fun. 
+There's no pressure at all for you to help, but if you feel the same way I do, doing stuff together is just more fun. 
 
 I like to utilize markdown for my notes. You probably already know how to use markdown, but [this website is a good reference](https://www.markdownguide.org/cheat-sheet).
 
