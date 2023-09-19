@@ -16,7 +16,9 @@ Simple is always better, but there's a few patterns I've fallen into over time.
 When a professor says something will be on the exam, or otherwise gives off a "vibe" that something is important, I mark the time and add three asterisks ***
 
 Example:
+
 10:05 AM
+
 Copyleft *** 
 
 If the lecture was recorded, I now have a time stamp to easily go back and listen to. The asterisks provide characters that are easy to find again with Ctrl-F.

@@ -16,7 +16,7 @@ As an audience member / manager / investor
 
 You also want to know where you can quickly find more info on certain parts of documents/slides
 
-10:05 AM
+10:05 AM  
 Copyleft *** 
 
 GPL ***
