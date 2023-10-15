@@ -1,0 +1,5 @@
+Date: 10-10-23
+
+Is it possible to create an element for subclasses that it itself is not a subclasses?
+Yes, as an interface.
+
